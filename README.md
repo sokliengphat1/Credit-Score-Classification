@@ -31,3 +31,9 @@ You can install these dependencies using pip:
 
 ```bash
 pip install pandas matplotlib seaborn wordcloud scikit-learn streamlit scipy joblib
+````
+
+You can test the application by navigating to the src folder and running the following command:
+- streamlit run app.py
+![image](https://github.com/sokliengphat1/Credit-Score-Classification/assets/132662975/e6cc1e11-e80d-4bb6-863d-10c8cc604e7b)
+
