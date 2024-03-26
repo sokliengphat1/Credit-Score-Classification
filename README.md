@@ -14,6 +14,9 @@ This Credit Score Classification project utilizes machine learning techniques to
 - **notebooks/**
   - [Credit_Score_Classification.ipynb](notebooks/Credit_Score_Classification.ipynb) - Jupyter notebook containing code for data exploration, preprocessing, model training, and evaluation.
 
+- **src/**
+  - [app.py](src/app.py) - The main file for implementing the application to predict new unseen data. It involves loading the model and implementing Streamlit for creating a user interface.
+
 ## Installation Requirements
 
 To run the code in this project, you will need the following libraries:
